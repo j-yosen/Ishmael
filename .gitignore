@@ -1,1 +1,5 @@
 .DS_Store
+
+*~         #ignores VIM files
+
+tmp/       #ignores tmp/ directory files  
